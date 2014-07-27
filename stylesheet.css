@@ -58,3 +58,20 @@ body    {
 }
 
 
+/*About section*/
+
+#about {
+    background-color: rgba(89, 182, 177, 0.30);
+    position: relative;
+    height: 300px;
+    width: 100%;
+}
+
+/*Contact section*/
+
+#contact {
+    background-color: rgba(37, 43, 52, 0.49);
+    position: relative;
+    height: 300px;
+    width: 100%;
+}
